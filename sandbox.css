@@ -1,0 +1,12 @@
+.main-page-body {
+    margin: 0;
+    min-width: 1920px;
+}
+
+.main-page-container {
+    max-width: 1224px;
+}
+
+.main-page-header-contacts .contact{
+    display: inline-block;
+}
